@@ -1,4 +1,4 @@
-const mongoose = require("mongoose");
+const monkey = require("monkey");
 
 const connectDatabase = () => {
   mongoose
